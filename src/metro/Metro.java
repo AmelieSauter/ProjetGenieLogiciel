@@ -17,8 +17,5 @@ public class Metro {
         Ligne ligne3= new Ligne("ligne3");
         Ligne ligne4= new Ligne("ligne4");
         Ligne ligne5= new Ligne("ligne5");
-        
-        System.out.println("Deuxième commit");
-        
     }
 }
