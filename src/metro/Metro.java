@@ -18,8 +18,6 @@ public class Metro {
         Ligne ligne4= new Ligne("ligne4");
         Ligne ligne5= new Ligne("ligne5");
         
-        System.out.println("Tototititata");
-        System.out.println("OK");
-        System.out.println("Anne");
+        System.out.println("modification");
     }
 }
