@@ -1,11 +1,13 @@
 
 package metro;
 
+import java.util.ArrayList;
+
 
 public class Ligne {
     
     private String nom;
-    private Arraylist<Station> listeStations;
+    private ArrayList<Station> listeStations;
     
     public Ligne(String nom){
         this.nom=nom;
