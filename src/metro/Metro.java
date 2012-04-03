@@ -19,5 +19,6 @@ public class Metro {
         Ligne ligne5= new Ligne("ligne5");
         
         System.out.println("Tototititata");
+        System.out.println("OK");
     }
 }
