@@ -39,12 +39,4 @@ public class Station {
     public void setIncident(boolean incident){
         this.incident=incident;
     }
-    
-    public void setX(int x){
-        this.x=x;
-    }
-    
-    public void setY(int y){
-        this.y=y;
-    }
 }
